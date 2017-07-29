@@ -34,4 +34,5 @@ After configuring the variables at the top of the file:
 I made this script in response to people having trouble using Play On Linux to install League of Legends.
 
 [Original Installation Video](https://www.youtube.com/watch?v=-int4LuRxRU)
+
 [Troubleshooting Video](https://www.youtube.com/watch?v=U6KIDNARE1Y)
